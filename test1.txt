@@ -1,4 +1,5 @@
 test1
 hi
+hi
 test238778
 some new line
